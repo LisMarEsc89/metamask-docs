@@ -19,7 +19,8 @@ The **Whitelist Settings** section allows you to configure domain and URL author
 
 ## Domain Authorization Overview
 
-Domain whitelisting is a critical security feature that prevents unauthorized applications from using your Web3Auth project credentials. Only domains and URLs explicitly added to your whitelist can successfully authenticate users through your Web3Auth configuration.
+Domain whitelisting is a critical security feature that prevents unauthorized applications from using your Web3Auth project credentials.
+Only domains and URLs explicitly added to your whitelist can successfully authenticate users through your Web3Auth configuration.
 
 ### Security Benefits
 
