@@ -1,13 +1,9 @@
-# MetaMask developer documentation
+% MetaMask developer documentation %
 
-This is the MetaMask developer documentation repository.
-The documentation site is hosted at [`docs.metamask.io`](https://docs.metamask.io), and it's
-built using [Docusaurus](https://docusaurus.io/), a static site generator purpose-built for
-technical documentation.
-
-## Build locally
-
-Build the documentation site locally using the following steps.
+This is the MetaMask developer documentation repository. The documentation site is hosted @[`docs.metamask.io`]
+  (https://docs.metamask.io) & it's built using [Docusaurus]
+   (https://docusaurus.io/), a static site generator purpose-built for technical documentation. May Build locally, and also Builds the documentation(s) site
+   locally using the following steps.
 
 ### Prerequisites
 
@@ -31,18 +27,17 @@ Build the documentation site locally using the following steps.
    > git remote add upstream https://github.com/MetaMask/metamask-docs.git
    > ```
 
-2. Install dependencies.
-
-   ```bash
-   npm install
+2. Install dependencies: npm install
+3. Start the development server: npm start
    ```
-
-3. Start the development server.
-
-   ```bash
-   npm start
-   ```
-
    Once the server starts, you can view the documentation at `http://localhost:3003`.
 
-For more information on contributing to the documentation, see the [full contribution guidelines](CONTRIBUTING.md).
+For more information on contributing to the documentation: 
+see the [full contribution guidelines]/(CONTRIBUTING.md).
+
+
+
+
+
+
+
